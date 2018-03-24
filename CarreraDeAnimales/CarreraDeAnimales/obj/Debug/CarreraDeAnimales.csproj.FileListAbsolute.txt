@@ -1,0 +1,10 @@
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CarreraDeAnimales\CarreraDeAnimales\bin\Debug\CarreraDeAnimales.exe.config
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CarreraDeAnimales\CarreraDeAnimales\bin\Debug\CarreraDeAnimales.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CarreraDeAnimales\CarreraDeAnimales\bin\Debug\CarreraDeAnimales.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CarreraDeAnimales\CarreraDeAnimales\obj\Debug\CarreraDeAnimales.csprojResolveAssemblyReference.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CarreraDeAnimales\CarreraDeAnimales\obj\Debug\CarreraDeAnimales.Form1.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CarreraDeAnimales\CarreraDeAnimales\obj\Debug\CarreraDeAnimales.Properties.Resources.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CarreraDeAnimales\CarreraDeAnimales\obj\Debug\CarreraDeAnimales.csproj.GenerateResource.Cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CarreraDeAnimales\CarreraDeAnimales\obj\Debug\CarreraDeAnimales.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CarreraDeAnimales\CarreraDeAnimales\obj\Debug\CarreraDeAnimales.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CarreraDeAnimales\CarreraDeAnimales\obj\Debug\CarreraDeAnimales.pdb
